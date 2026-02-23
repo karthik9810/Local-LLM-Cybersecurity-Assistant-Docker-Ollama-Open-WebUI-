@@ -75,3 +75,13 @@ https://github.com/ollama/ollama
 
 Model Library:
 https://ollama.com/library
+
+Client Browser
+     ↓
+Open WebUI (Docker Container)
+     ↓
+Ollama Runtime (Host)
+     ↓
+Local LLM Models (Llama3 / DeepSeek-R1)
+     ↓
+CPU / RAM Inference Engine
