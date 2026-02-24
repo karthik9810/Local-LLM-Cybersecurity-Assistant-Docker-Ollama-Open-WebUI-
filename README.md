@@ -67,20 +67,17 @@ http://localhost:3000
 
 ## Official Resources
 
-Open WebUI:
-https://github.com/open-webui/open-webui
+🧰 Technologies Used
 
-Ollama:
-https://github.com/ollama/ollama
+Docker Desktop – Container orchestration
 
-Model Library:
-https://ollama.com/library
+Open WebUI – Web-based LLM interface
 
-Client Browser
-     ↓
-Open WebUI (Docker Container)
-     ↓
-Ollama Runtime (Host)
+Ollama – Local LLM runtime
+
+Llama3 (8B) – General-purpose reasoning
+
+DeepSeek-R1 (7B) – Technical reasoning & code intelligence
      ↓
 Local LLM Models (Llama3 / DeepSeek-R1)
      ↓
