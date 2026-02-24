@@ -85,3 +85,15 @@ DeepSeek-R1 (7B) – Technical reasoning & code intelligence
 Local LLM Models (Llama3 / DeepSeek-R1)
      ↓
 CPU / RAM Inference Engine
+
+Minimum Setup (Works but Slower)
+
+CPU: Intel i5 (8th Gen+) / Ryzen 5
+
+RAM: 16 GB
+
+Storage: SSD (500 GB)
+
+GPU: Not required (CPU-only inference)
+
+OS: Windows 11 / Linux
