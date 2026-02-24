@@ -73,11 +73,14 @@ Docker Desktop – Container orchestration
 
 Open WebUI – Web-based LLM interface
 
+
 Ollama – Local LLM runtime
 
 Llama3 (8B) – General-purpose reasoning
 
 DeepSeek-R1 (7B) – Technical reasoning & code intelligence
+
+
      ↓
 Local LLM Models (Llama3 / DeepSeek-R1)
      ↓
