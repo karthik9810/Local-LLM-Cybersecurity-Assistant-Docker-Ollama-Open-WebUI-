@@ -49,7 +49,7 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 ollama pull llama3
 ollama pull deepseek-r1:7b
 
-### 5. Access Web Interface
+### 5. Access Web Interface - 
 
 http://localhost:3000
 
